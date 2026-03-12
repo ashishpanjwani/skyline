@@ -10,3 +10,20 @@ Skyline is a minimalist weather app built with Flutter that delivers accurate, h
 - 📅 **7-Day Forecast** — Clean weekly outlook at a glance  
 - 📍 **Hyper-Local Weather** — Street-level location accuracy  
 - 🎨 **Dynamic UI** — Visuals that adapt to current weather conditions
+
+## Closed Testing
+
+Skyline is currently in **closed testing on the Play Store**.
+
+If you'd like to join the testing program, please email:
+
+**madebyfeelsgood@gmail.com**
+
+## Philosophy
+
+Most weather apps overwhelm users with ads and unnecessary information.  
+Skyline keeps things simple — **just the weather, beautifully presented.**
+
+---
+
+Built with ❤️ by **Feels Good Studio**
