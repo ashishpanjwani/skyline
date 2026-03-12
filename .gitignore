@@ -1,0 +1,62 @@
+# ---- Flutter/Dart ----
+.dart_tool/
+.packages
+.pub/
+build/
+flutter_export_environment.sh
+
+# Generated files
+*.lock
+pubspec.lock  # Keep this if app project, remove if plugin package
+
+# ---- Android ----
+android/.gradle/
+android/app/build/
+android/local.properties
+*.keystore
+*.jks
+key.properties
+
+# ---- iOS ----
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Pods/
+ios/.symlinks/
+ios/Runner.xcworkspace/
+ios/DerivedData/
+*.xcuserstate
+*.xcworkspace
+*.xcuserdatad
+*.xcuserdata
+
+# ---- macOS ----
+macos/Pods/
+macos/DerivedData/
+
+# ---- Web ----
+build/web/
+
+# ---- Windows/Linux ----
+windows/flutter/generated_plugin_registrant.cc
+linux/flutter/generated_plugin_registrant.cc
+
+# ---- IDE ----
+.idea/
+.vscode/
+*.iml
+
+# ---- OS files ----
+.DS_Store
+Thumbs.db
+
+# ---- Logs ----
+*.log
+
+# ---- Secrets ----
+.env
+.env.*
+
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+android/gradle.properties
