@@ -1,16 +1,12 @@
-# as_promised_weather
+# Skyline
 
-A new Flutter project.
+**Elevate your daily horizon with Skyline.**
 
-## Getting Started
+Skyline is a minimalist weather app built with Flutter that delivers accurate, hyper-local forecasts through a calm and clutter-free interface. Designed around the **Feels Good philosophy**, Skyline focuses on clarity and simplicity so you can quickly understand the weather and plan your day.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 🌤 **Real-Time Updates** — Minute-by-minute temperature, rain, and wind data  
+- 📅 **7-Day Forecast** — Clean weekly outlook at a glance  
+- 📍 **Hyper-Local Weather** — Street-level location accuracy  
+- 🎨 **Dynamic UI** — Visuals that adapt to current weather conditions
