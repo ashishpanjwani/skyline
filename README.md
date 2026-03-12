@@ -8,7 +8,6 @@ Skyline is a minimalist weather app built with Flutter that delivers accurate, h
 
 - 🌤 **Real-Time Updates** — Minute-by-minute temperature, rain, and wind data  
 - 📅 **7-Day Forecast** — Clean weekly outlook at a glance  
-- 📍 **Hyper-Local Weather** — Street-level location accuracy  
 - 🎨 **Dynamic UI** — Visuals that adapt to current weather conditions
 
 ## Closed Testing
